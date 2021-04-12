@@ -1,0 +1,52 @@
+.close {
+  text-align: end;
+  padding-top: 37px;
+  padding-right: 21px;
+  font-size: 1.3rem;
+}
+.fa-times {
+  color: #545454;
+}
+.content {
+  display: inline-flex;
+}
+.fa-chevron-left {
+  padding-left: 40px;
+  font-size: 1.3rem;
+}
+.title {
+  width: 142px;
+  height: 26px;
+  left: 65px;
+  top: 52px;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 22px;
+  line-height: 26px;
+  color: #545454;
+}
+.list-props {
+  text-align: start;
+  padding-left: 65px;
+  color: #78787a;
+}
+.first {
+  margin-left: 10px;
+}
+.in-line {
+  display: inline-flex;
+  text-align: start;
+  padding-left: 50px;
+}
+.right {
+  float: right;
+  margin-right: 25px;
+}
+.fa-chevron-down {
+  font-size: 1.3rem;
+  color: #316aff;
+}
+.list-group-item p {
+  margin-bottom: 0%;
+  color: #78787a;
+}

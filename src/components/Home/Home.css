@@ -1,0 +1,87 @@
+.body {
+  background-color: #f1f1f1;
+  text-align: center;
+  padding-bottom: 40px;
+}
+.row-btns {
+  background-color: #f1f1f1;
+  padding-top: 14px;
+  padding-bottom: 20px;
+}
+.buttons {
+  background-color: #fff;
+  color: #78787a;
+  margin-left: 10px;
+}
+.cards {
+  padding-top: 20px;
+}
+.card-text {
+  text-align: start !important;
+  height: 68px;
+  left: 6.92%;
+  right: 5%;
+  top: calc(50% - 68px / 2 + 72px);
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  color: #5c5a5a;
+  margin-bottom: 0% !important;
+}
+.row-price {
+  text-align: start !important;
+}
+#percent {
+  background-color: #316aff !important;
+  color: #fff;
+  font-weight: 900;
+  width: 47.47px;
+  height: 48.79px;
+  font-size: 15px;
+  text-align: center;
+  margin-top: 15px;
+  padding-top: 10px;
+  border-radius: 6px;
+}
+
+.price {
+  display: inline-flex;
+}
+#current-price {
+  font-weight: 800;
+  font-size: 26px;
+  color: #fb7500;
+  margin-left: 15px;
+  padding-top: 10px;
+}
+#before {
+  font-weight: 500;
+  font-size: 15px;
+  color: #a0a0a0;
+  text-decoration: line-through;
+  margin-left: 15px;
+}
+.prueba span {
+  font-size: 0;
+  display: block;
+}
+.footer-card {
+  text-align: start !important;
+}
+#distance {
+  padding-top: 11px;
+  margin-left: 10px;
+  font-size: 15px;
+  font-weight: bold;
+  color: #a7a7a6;
+  display: inline-flex;
+}
+#rate {
+  margin-right: 10px;
+  float: right;
+  padding-top: 11px;
+  font-size: 15px;
+  font-weight: bold;
+  color: #a7a7a6;
+}
