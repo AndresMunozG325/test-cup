@@ -12,16 +12,14 @@ const Ordenar = () => {
                 <Link to="/"><i className="fas fa-chevron-left me-3"></i></Link>
                 <p className="title">  Ordenar por</p>
             </div>
-
-            <div>
-                <ul className="list-group">
-                    <li className="list-group-item list-props active">Menor Precio</li>
-                    <li className="list-group-item list-props">Mayor Precio</li>
-                    <li className="list-group-item list-props">Lo más nuevo</li>
-                    <li className="list-group-item list-props">Distancia</li>
-                </ul>
+            <div className="list-group"role="group" aria-label="Basic outlined example">               
+                <button type="button" className="btn btn-outline-primary list-props" aria-current="true">
+                    Menor precio
+                </button>
+                <button type="button" className="btn btn-outline-primary list-props">Mayor precio</button>
+                <button type="button" className="btn btn-outline-primary list-props">Lo más nuevo</button>
+                <button type="button" className="btn btn-outline-primary list-props">Distancia</button>
             </div>
-            
         </div>
     )
 }

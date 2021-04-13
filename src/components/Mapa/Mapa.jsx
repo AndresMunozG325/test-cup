@@ -3,8 +3,8 @@ import './Mapa.css';
 
 const Mapa = () => {
     return (
-        <div className="text-center">
-           <img src="mapa-ejemplo.png" className="size" alt="..." />
+        <div className="container text-center">
+           <img src="mapa-ejemplo.png" className="size img-fluid" alt="..." />
         </div>
     )
 }

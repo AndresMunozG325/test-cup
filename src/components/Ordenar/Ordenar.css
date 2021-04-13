@@ -50,3 +50,28 @@
   margin-bottom: 0%;
   color: #78787a;
 }
+.btn-outline-primary {
+  border-width: 0.5px !important;
+  border-color: #78787a;
+  color: #78787a;
+}
+
+.btn-outline-primary:focus-within {
+  background-color: #fff !important;
+  color: #78787a !important;
+  border-left-width: 20px !important;
+  border-left-color: #316aff;
+  box-shadow: none;
+}
+.accordion-button::after {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%230c63e4'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e") !important;
+  margin-right: 20px;
+}
+.my-custom-scrollbar {
+  position: relative;
+  height: 100px;
+  overflow: auto;
+}
+.table-wrapper-scroll-y {
+  display: block;
+}
