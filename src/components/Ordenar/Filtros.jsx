@@ -4,7 +4,7 @@ import './Ordenar.css';
 
 const Filtros = () => {
     return (
-        <div>
+        <div className="container">
             <div className="close">
                 <Link to="/"><i className="fas fa-times"></i></Link>
             </div>
@@ -83,7 +83,7 @@ const Filtros = () => {
                         </button>
                     </h2>
                     <div id="flush-collapseFour" className="accordion-collapse collapse" aria-labelledby="flush-headingFour" data-bs-parent="#accordionFlushExample">
-                        <div className="accordion-body">                            
+                        <div className="accordion-body text-center">                            
                             <div className="btn-group" role="group" aria-label="Basic checkbox toggle button group">
                                 <input type="checkbox" className="btn-check" id="btncheck1" autoComplete="off" />
                                 <label className="btn btn-outline-primary" htmlFor="btncheck1">Radio de 10 Kms</label>

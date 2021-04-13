@@ -4,7 +4,7 @@ import Home from './components/Home/Home';
 import Ordenar from './components/Ordenar/Ordenar';
 import Filtros from './components/Ordenar/Filtros';
 import RowBtns from './components/Home/RowBtns';
-import Mapa from './components/Mapa/Mapa';
+import Mapp from './components/Mapa/Mapp';
 import {
   BrowserRouter as Router,
   Switch,
@@ -25,7 +25,7 @@ function App() {
         <Route path="/mapa">
           <Navbar />
           <RowBtns />
-          <Mapa />
+          <Mapp />
         </Route>
         <Route path="/">
           <Navbar />

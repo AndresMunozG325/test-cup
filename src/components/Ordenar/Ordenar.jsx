@@ -4,7 +4,7 @@ import './Ordenar.css';
 
 const Ordenar = () => {
     return (
-        <div>
+        <div className="container">
             <div className="close">
                 <Link to="/"><i className="fas fa-times"></i></Link>
             </div>
