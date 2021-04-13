@@ -1,3 +1,25 @@
+Acá algunas capturas de pantalla
+El mapa lo implementé con Mapbox Gl JS, en el caso de que hagan un fork y quieran probarlo.
+
+![Screen Shot 2021-04-13 at 01 38 36](https://user-images.githubusercontent.com/71106768/114502352-a4dc6000-9bf9-11eb-8052-71e60abff48a.png)
+
+![Screen Shot 2021-04-13 at 01 39 05](https://user-images.githubusercontent.com/71106768/114502372-ad349b00-9bf9-11eb-9686-8cacea1558f9.png)
+
+![Screen Shot 2021-04-13 at 01 39 49](https://user-images.githubusercontent.com/71106768/114502405-bb82b700-9bf9-11eb-8192-cd875299f475.png)
+
+![Screen Shot 2021-04-13 at 01 40 04](https://user-images.githubusercontent.com/71106768/114502414-c1789800-9bf9-11eb-9338-923683b4bc06.png)
+
+![Screen Shot 2021-04-13 at 01 40 27](https://user-images.githubusercontent.com/71106768/114502447-cb020000-9bf9-11eb-86ab-6aecb0a8e59f.png)
+
+![Screen Shot 2021-04-13 at 01 40 40](https://user-images.githubusercontent.com/71106768/114502469-d5bc9500-9bf9-11eb-874a-9e1fe620a9ae.png)
+
+![Screen Shot 2021-04-13 at 01 40 58](https://user-images.githubusercontent.com/71106768/114502498-df45fd00-9bf9-11eb-98fa-7d0fdb086484.png)
+
+![Screen Shot 2021-04-13 at 01 41 11](https://user-images.githubusercontent.com/71106768/114502528-ecfb8280-9bf9-11eb-8239-41790bedefd0.png)
+
+![Screen Shot 2021-04-13 at 01 41 31](https://user-images.githubusercontent.com/71106768/114502544-f1c03680-9bf9-11eb-9b55-a776fa967f2b.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
